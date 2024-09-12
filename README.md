@@ -1,5 +1,5 @@
-## Persyaratan Sistem: 
-# Pastikan Anda memiliki Python terinstal di sistem Anda. payload_dumper kemungkinan memerlukan Python 3.x.
+# Persyaratan Sistem: 
+## Pastikan Anda memiliki Python terinstal di sistem Anda. payload_dumper kemungkinan memerlukan Python 3.x.
 
 - Kloning Repositori: Buka terminal atau command prompt dan kloning repositori dengan perintah:
 ```
