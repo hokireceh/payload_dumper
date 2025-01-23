@@ -18,12 +18,12 @@ pip install -r requirements.txt
 
 - Menjalankan Payload Dumper: Anda harus memeriksa dokumentasi atau file README di repositori untuk melihat bagaimana cara menjalankan payload_dumper. Biasanya, Anda dapat menjalankannya dengan:
 ```
-python payload_dumper.py
+python3 payload_dumper.py payload.bin
 ```
 
 **note**
 ```
-python payload_dumper.py <path_to_payloadfile>
+python3 payload_dumper.py <path_to_payloadfile>
 ```
 
 
